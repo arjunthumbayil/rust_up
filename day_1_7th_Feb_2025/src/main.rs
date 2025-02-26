@@ -1,5 +1,5 @@
 fn main() {
-    let ans = sum(1,2);
+    let ans = sum(7,2);
     print!("{}", ans)
 }
 
