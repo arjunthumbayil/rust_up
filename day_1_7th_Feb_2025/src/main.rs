@@ -1,8 +1,14 @@
 fn main () {
-    let v = vec![1,2,3];
-    println!("{:?}", v)
+    for i in 0..102 {
+
+        println!("{}", i)
+    }
 }
 
+// fn main () {
+//     let v = vec![1,2,3];
+//     println!("{:?}", v)
+// }
 
 // fn main () {
 //     let name: String = String::from("Arjun ");
