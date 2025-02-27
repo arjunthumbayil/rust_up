@@ -1,6 +1,6 @@
 fn main () {
-    let name: String = String::from("Arjun");
-    print!("{}", name)
+    let name: String = String::from("Arjun ");
+    print!("First_Name: {}", name)
 }
 
 
