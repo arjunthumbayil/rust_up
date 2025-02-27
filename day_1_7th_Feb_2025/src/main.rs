@@ -1,8 +1,13 @@
 fn main () {
-    let name: String = String::from("Arjun ");
-    print!("First_Name: {}", name)
+    let v = vec![1,2,3];
+    println!("{:?}", v)
 }
 
+
+// fn main () {
+//     let name: String = String::from("Arjun ");
+//     print!("First_Name: {}", name)
+// }
 
 
 // fn main() {
