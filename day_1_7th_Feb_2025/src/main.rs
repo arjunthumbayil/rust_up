@@ -1,13 +1,21 @@
-fn main() {
-    let ans = is_even(2);
-    print!("{}", ans)
+fn main () {
+    let name: String = String::from("Arjun");
+    print!("{}", name)
 }
 
-fn is_even(a:u32) -> bool {
-   return a%2 == 0; 
-}
+
 
 // fn main() {
+//     let ans = is_even(2);
+//     print!("{}", ans)
+// }
+
+// fn is_even(a:u32) -> bool {
+//    return a%2 == 0; 
+// }
+
+// fn main() {
+
 //     let ans = sum(7,2);
 //     print!("{}", ans)
 // }
