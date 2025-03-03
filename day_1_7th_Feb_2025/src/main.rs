@@ -1,5 +1,5 @@
 fn main () {
-    for i in 0..110 {
+    for i in 0..1110 {
 
         println!("{}", i)
     }
